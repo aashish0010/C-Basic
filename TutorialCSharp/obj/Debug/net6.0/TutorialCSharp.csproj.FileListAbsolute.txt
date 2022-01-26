@@ -1,0 +1,15 @@
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\bin\Debug\net6.0\TutorialCSharp.exe
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\bin\Debug\net6.0\TutorialCSharp.deps.json
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\bin\Debug\net6.0\TutorialCSharp.runtimeconfig.json
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\bin\Debug\net6.0\TutorialCSharp.dll
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\bin\Debug\net6.0\ref\TutorialCSharp.dll
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\bin\Debug\net6.0\TutorialCSharp.pdb
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\obj\Debug\net6.0\TutorialCSharp.csproj.AssemblyReference.cache
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\obj\Debug\net6.0\TutorialCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\obj\Debug\net6.0\TutorialCSharp.AssemblyInfoInputs.cache
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\obj\Debug\net6.0\TutorialCSharp.AssemblyInfo.cs
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\obj\Debug\net6.0\TutorialCSharp.csproj.CoreCompileInputs.cache
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\obj\Debug\net6.0\TutorialCSharp.dll
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\obj\Debug\net6.0\ref\TutorialCSharp.dll
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\obj\Debug\net6.0\TutorialCSharp.pdb
+C:\Users\pudas\OneDrive\Desktop\tutorial\C#\TutorialCSharp\TutorialCSharp\obj\Debug\net6.0\TutorialCSharp.genruntimeconfig.cache
